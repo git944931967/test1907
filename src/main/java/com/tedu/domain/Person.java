@@ -10,5 +10,6 @@ package com.tedu.domain;
 public class Person {
 
     private String name;
+    private String remark;
 
 }
